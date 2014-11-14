@@ -1,6 +1,8 @@
-iran-locality
+Locality of Iran
 =============
 
 Locality of Iran with Latitude and longitude
 
-State and city with latitude and longitude available with MySQL query.
+Province (State) and city with latitude and longitude available with MySQL query.
+
+Country => Province => City
