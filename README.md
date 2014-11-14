@@ -3,7 +3,7 @@ Locality of Iran
 
 Locality of Iran with Latitude and longitude
 
-Province (State) and city with latitude and longitude available with with:
+Province (State) and city with latitude and longitude available with:
 
 -Access
 
