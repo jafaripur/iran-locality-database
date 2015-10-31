@@ -468,7 +468,7 @@ CREATE TABLE IF NOT EXISTS `country` (
 --
 
 INSERT INTO `country` (`id`, `name`, `latitude`, `longitude`) VALUES
-(1, 'ایران', '32.96256', '53.94828'),
+(1, 'ایران', '32.96256', '53.94828');
 
 -- --------------------------------------------------------
 
