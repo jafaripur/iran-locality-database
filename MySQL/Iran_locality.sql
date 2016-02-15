@@ -555,6 +555,14 @@ INSERT INTO `province` (`id`, `country`, `name`, `latitude`, `longitude`) VALUES
 (30, 1, 'همدان', '34.76079990', '48.39881860'),
 (31, 1, 'یزد', '32.10063870', '54.43421380');
 
+-- Hormozgan Province Cities 
+INSERT INTO `city` (`province`, `name`, `latitude`, `longitude`) VALUES
+(29, 'کیش', '26_31', '53_58'),
+(29, 'لاوان', '26_48', '53_16'),
+(29, 'پارسیان', '27_11', '54_22'),
+(29, 'سیریک', '27_11', '54_22'),
+(29, 'بشاگرد', '27_11', '54_22');
+
 --
 -- Indexes for dumped tables
 --
